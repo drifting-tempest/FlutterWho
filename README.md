@@ -18,6 +18,11 @@ Upload an image via file or drag-and-drop to identify butterflies across 8 major
 - Drag & Drop OR  Upload a file to classify
 
 
+## Resources
+
+Images of birds (8 x 70 = 560 images) were used from Getty Images to create the training, testing and final evaluation dataset to train this model. 
+
+
 Made with love,
 
 Sakura
